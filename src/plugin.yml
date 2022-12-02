@@ -1,0 +1,4 @@
+name: DeathHeadsLite
+main: pondwader.DeathHeads.DeathHeads
+version: 0.1
+description: Drop player's heads when they die
